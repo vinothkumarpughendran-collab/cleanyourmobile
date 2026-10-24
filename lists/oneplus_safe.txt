@@ -1,0 +1,13 @@
+# Safe to remove (Facebook preload, partner stubs, OnePlus extras). Format: package # description
+com.facebook.appmanager # Facebook App Manager
+com.facebook.services # Facebook Services
+com.facebook.system # Facebook System
+com.netflix.partner.activation # Netflix preload activation
+com.oneplus.membership # OnePlus membership/promos
+net.oneplus.odm # OnePlus device data collection
+com.android.egg # Android Easter egg
+com.android.dreams.basic # Basic screensaver
+com.android.dreams.phototable # Photo screensaver
+com.android.bips # Built-in print service
+com.android.bookmarkprovider # Legacy bookmark provider
+com.android.traceur # System tracing

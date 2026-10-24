@@ -1,0 +1,9 @@
+# OnePlus apps some people use. Review before running. Format: package # description
+com.oneplus.gamespace # Gaming Mode
+com.oneplus.backuprestore # Clone Phone
+com.oneplus.soundrecorder # Sound recorder
+com.oneplus.screenrecord # Screen recorder
+com.oneplus.note # Notes
+com.oneplus.calculator # Calculator
+com.oneplus.account # OnePlus account
+net.oneplus.weather # Weather

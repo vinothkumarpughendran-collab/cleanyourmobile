@@ -1,0 +1,8 @@
+# Optional Google apps. Review before running. Format: package # description
+com.google.android.videos # Google TV / Play Movies
+com.google.android.music # Play Music (legacy)
+com.google.android.apps.youtube.music # YouTube Music
+com.google.android.apps.magazines # Google News
+com.google.android.apps.tachyon # Google Meet/Duo
+com.google.android.apps.docs # Google Drive
+com.google.android.projection.gearhead # Android Auto - KEEP if you use it in a car
